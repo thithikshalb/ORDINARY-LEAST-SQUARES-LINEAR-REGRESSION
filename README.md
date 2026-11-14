@@ -83,7 +83,9 @@ print('MSE (sklearn):', mean_squared_error(y, y_pred_sk))
 
 
 Closed-form beta: [-164.796    4.649    8.019]
+
 MSE (closed): 14.990291262136022
+
 MSE (sklearn): 14.990291262135969
 
 
